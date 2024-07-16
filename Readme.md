@@ -27,7 +27,7 @@ Voici quelques visuels Power BI
 ### Visuelle 1
  ![Modele](img/profit.png)
 ### Visuelle 2
- ![Modele](img/Prevision.png)
+ ![Modele](img/resultat.png)
  ### Animation
  ![Modele](img/AnimationPBI.gif)
 ## Conclusion
